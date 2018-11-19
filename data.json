@@ -1,0 +1,14 @@
+{
+    "users" : [
+        {
+            "name" : "Admin",
+            "email" : "admin@test.com",
+            "date_of_birth" : "12/04/1985"
+        },
+        {
+            "name" : "Antony",
+            "email" : "antony@test.com",
+            "date_of_birth" : "24/07/1978"
+        }
+    ]
+}
