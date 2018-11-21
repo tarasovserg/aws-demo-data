@@ -9,6 +9,11 @@
             "name" : "Antony",
             "email" : "antony@test.com",
             "date_of_birth" : "24/07/1978"
+        },
+        {
+            "name" : "User1",
+            "email" : "user@test.com",
+            "date_of_birth" : "24/10/1979"
         }
     ]
 }
